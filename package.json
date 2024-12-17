@@ -1,0 +1,22 @@
+{
+  "name": "@musasutisna/nodco-logging",
+  "version": "1.0.0",
+  "description": "make easier configuration nodejs configuration intergration with logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musasutisna/nodco-logging.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Musa Sutisna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/musasutisna/nodco-logging/issues"
+  },
+  "homepage": "https://github.com/musasutisna/nodco-logging#readme"
+}
