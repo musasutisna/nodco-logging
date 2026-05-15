@@ -1,6 +1,6 @@
 {
   "name": "@musasutisna/nodco-logging",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "make easier configuration nodejs configuration intergration with logging",
   "main": "index.js",
   "scripts": {
